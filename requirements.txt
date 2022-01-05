@@ -52,3 +52,5 @@ wincertstore==0.2
 xarray==0.15.0
 xgboost==0.90
 zipp==2.0.1
+pytest==6.2.2
+-e .
